@@ -4,9 +4,9 @@
 </div>
 <div>
     <p><Strong><h2>Apresentação😁</h2></Strong></p>
-    <p> Olá. Meu nome é Nicolas, sou estudante do IFC - Campus Ibirama — entrei em 2022 e 
-        <br>me formando em 2024 —, atualmente estou estudando Java e Kotlin buscando trabalhar
-        <br> na área de desenvolvimento mobile, além dessas linguagens estudo Python, Java Script
+    <p> Olá!. Meu nome é Nicolas, sou estudante do IFC - Campus Ibirama — entrei em 2022 e 
+        <br>me formando em 2024 — atualmente estou estudando Java e Kotlin buscando trabalhar
+        <br> na área de desenvolvimento mobile, além dessas linguagens, estudo Python, JavaScript
         <br>e C++ por interesse próprio.</p>
 </div>
 <div>
@@ -20,17 +20,17 @@
     <tr>
         <td>Java</td>
         <td>2.5<br>Anos</td>
-        <td>TCC-Orbitae</td>
+        <td><a href="https://github.com/NicolasKaenan/TCC-Orbitae">TCC-Orbitae</a></td>
     </tr>
     <tr>
         <td>Java Script</td>
         <td>1<br>Ano</td>
-        <td>Biblioteca-Pyramid-scheme</td>
+        <td><a href="https://github.com/NicolasKaenan/Biblioteca-Pyramid-scheme">Biblioteca-Pyramid-scheme</a></td>
     </tr>
     <tr>
         <td>Python</td>
         <td>1<br>Ano</td>
-        <td>Calculator-in-python</td>
+        <td><a href="https://github.com/NicolasKaenan/Calculator-in-python">Calculator-in-python</a></td>
     </tr>
     <tr>
         <td>C++</td>
