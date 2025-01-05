@@ -1,5 +1,5 @@
 <div align="center">
-  <p><img src="https://media.licdn.com/dms/image/v2/D4D03AQFa0d7dVAh--A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1729014112870?e=1734566400&v=beta&t=f69QbCJ1aVvwkWsQLnWbrVEOODKvw4RyRJHe81sTutw"></p>
+  <p><img src="https://media.licdn.com/dms/image/v2/D4D03AQFa0d7dVAh--A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1729014112870?e=1741824000&v=beta&t=wLREmsD737PoLIEJzqJ8rKiXknWbh4wydCzw86TbqT8"></p>
   <h1><strong>Ola, sou o Nicolas Kaenan Silveira</strong></h1>
 </div>
 
