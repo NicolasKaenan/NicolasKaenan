@@ -5,9 +5,9 @@
 
 <div>
     <p><strong><h2>Apresentação😁</h2></strong></p>
-    <p>Olá!. Meu nome é Nicolas, sou estudante do IFC - Campus Ibirama — entrei em 2022 e 
-        <br>me formando em 2024 — atualmente estou estudando Java e Kotlin buscando trabalhar
-        <br>na área de desenvolvimento mobile, além dessas linguagens, estudo Python, JavaScript
+    <p>Olá!. Meu nome é Nicolas, sou formado em TI pelo IFC - Campus Ibirama — entrei em 2022 e 
+        <br>me formando em 2024 — atualmente estou estudando Java e Typescript buscando trabalhar
+        <br>na área de desenvolvimento de software, além dessas linguagens, estudo Rust, JavaScript
         <br>e C++ por interesse próprio.</p>
 </div>
 
@@ -31,28 +31,18 @@
           <td><a href="https://github.com/NicolasKaenan/Biblioteca-Pyramid-scheme">Biblioteca-Pyramid-scheme</a></td>
       </tr>
       <tr>
-          <td>Python</td>
-          <td>1<br>Ano</td>
-          <td><a href="https://github.com/NicolasKaenan/Calculator-in-python">Calculator-in-python</a></td>
-      </tr>
-      <tr>
-          <td>C++</td>
-          <td>1<br>Mês</td>
-          <td>Nenhum</td>
-      </tr>
-      <tr>
-          <td>Kotlin</td>
-          <td>2<br>Mêses</td>
-          <td>Nenhum</td>
+          <td>Typescripttd>
+          <td>2<br>Mês</td>
+          <td><a href="https://github.com/NicolasKaenan/Landing-Page-Angular">Landing-Page-Angular</a></td>
       </tr>
     </table>
   </div>
   
   <div>
-    <h2>Outras linguagens🧑‍💻</h2>
+    <h2>Ferramentas👨‍💻</h2>
     <table>
       <tr>
-          <th>Linguagem</th>
+          <th>Ferramenta</th>
           <th>Tempo trabalhando</th>
           <th>Trabalho rescente</th>
       </tr>
@@ -65,6 +55,17 @@
           <td>Css</td>
           <td>2<br>Ano</td>
           <td><a href="https://github.com/NicolasKaenan/Blog-preview-card/blob/main/README.md">Blog-preview-card</a></td>
+      </tr>
+      <tr>
+          <td>Angular.js</td>
+          <td>2<br>Meses</td>
+          <td><a href="https://github.com/NicolasKaenan/Landing-Page-Angular">Landing-Page-Angular</a></td>
+      </tr>
+      <tr>
+          <td>SpringBoot</td>
+          <td>1<br>mês</td>
+          <td><a href="https://github.com/NicolasKaenan/Bookstore_Manager_API">Bookstore_Manager_API
+</a></td>
       </tr>
     </table>
   </div>
