@@ -88,7 +88,7 @@ PTES · OWASP Top 10 · MITRE ATT&CK · ISO/IEC 27001/27002
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaenandev)
 [![Portfolio](https://img.shields.io/badge/kaenan.dev-111827?style=flat&logo=vercel&logoColor=white)](https://kaenan.dev)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kaenansilveira@outlook.com)
-[![HTB](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://app.hackthebox.com)
+[![HTB](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019d720b-0bb1-7316-846a-4ade34de2eb8)
 
 ---
 
