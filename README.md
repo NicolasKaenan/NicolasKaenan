@@ -1,95 +1,278 @@
-# Nicolas Kaenan Silveira
+# Hi, I'm Nicolas Kaenan Silveira 👋
+# Olá, eu sou Nicolas Kaenan Silveira 👋
 
-```
-┌──────────────────────────────────────────────────────────┐
-│  eJPT Certified  ·  Offensive Security  ·  Red Team      │
-│  HTB & THM Practitioner  ·  Full-Stack Developer         │
-└──────────────────────────────────────────────────────────┘
+```text
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ Offensive Security • Pentesting • Red Team • Application Security           │
+│ eJPT Certified • Cybersecurity Student • Full-Stack Developer               │
+└──────────────────────────────────────────────────────────────────────────────┘
 ```
 
-Tecnólogo em Segurança Cibernética (Unisenai) e Técnico em Informática pelo IFC.  
-Foco em **segurança ofensiva** — pentest, Red Team e análise de vulnerabilidades.  
-Base sólida em desenvolvimento full-stack aplicada à identificação de falhas em aplicações.
+🇧🇷 **Português**
+
+Sou estudante de **Tecnologia em Segurança Cibernética**, Técnico em Informática e apaixonado por Segurança Ofensiva.
+
+Meu principal objetivo é desenvolver soluções para segurança, identificar vulnerabilidades, realizar testes de intrusão e compartilhar conhecimento através de projetos, laboratórios e ferramentas open source.
 
 ---
 
-## 🎯 Sobre
+🇺🇸 **English**
 
-- 🔐 **eJPT** — INE Security (2026)
-- 💀 **+15 máquinas** comprometidas no Hack The Box e TryHackMe
-- 🛠️ Metodologia **PTES** + **OWASP Top 10** + mapeamento **MITRE ATT&CK**
-- 🌐 Foco em **Web Ofensivo**: SQLi, XSS, IDOR, falhas de autenticação (Burp Suite)
-- 🐧 Post-Exploitation: Privilege Escalation, persistência e pivoting (Linux & Windows)
-- 📡 Reconhecimento e enumeração de redes com Nmap, análise de tráfego com Wireshark
+I'm a **Cybersecurity Technology student**, Computer Technician and Offensive Security enthusiast.
+
+My primary goal is to build security solutions, identify vulnerabilities, perform penetration testing and share knowledge through projects, labs and open-source tools.
 
 ---
 
-## ⚔️ Arsenal
+# 🎯 About | Sobre
 
-**Pentest & Red Team**
-```
-Nmap · Burp Suite · Metasploit · Wireshark · Netcat · Hydra
-```
+🇧🇷
 
-**Desenvolvimento**
-```
-Java · Spring Boot · Node.js · JavaScript · Python · Bash
-HTML · CSS · Angular · React (Vite)
-```
+- 🔐 eJPT Certified — INE Security
+- 🎓 Cybersecurity Technologist — UniSenai
+- 💻 Computer Technician — IFC Campus Ibirama
+- 🌐 Foco em Pentest Web, Red Team e Application Security
+- ⚙️ Background em Desenvolvimento Full Stack
+- 📚 Sempre estudando novas técnicas de exploração e defesa
 
-**Ambientes**
-```
-Kali Linux · Ubuntu · Windows Server
-```
+🇺🇸
 
-**Frameworks**
-```
-PTES · OWASP Top 10 · MITRE ATT&CK · ISO/IEC 27001/27002
-```
+- 🔐 eJPT Certified — INE Security
+- 🎓 Cybersecurity Technologist — UniSenai
+- 💻 Computer Technician — IFC Campus Ibirama
+- 🌐 Focused on Web Pentesting, Red Team and Application Security
+- ⚙️ Full-Stack Development Background
+- 📚 Constantly learning new offensive security techniques
 
 ---
 
-## 🔥 Projetos em Destaque
+# 🛠️ Technologies & Tools | Tecnologias e Ferramentas
 
-### [TCC-Orbitae-Software](https://github.com/NicolasKaenan/TCC-Orbitae-Software)
-> Simulador de física newtoniana — Java/JavaFX + API REST em Node.js  
-> Autenticação, banco relacional com 5 tabelas, geração de PDF. 5 meses, 34 commits.
+## 💻 Languages
 
-### [Bookstore_Manager_API](https://github.com/NicolasKaenan/Bookstore_Manager_API)
-> API RESTful de gerenciamento de acervo em **Spring Boot**  
-> Arquitetura MVC, endpoints CRUD completos, integração MySQL.
+<p>
+<img src="https://skillicons.dev/icons?i=go,java,python,javascript,bash,html,css" />
+</p>
 
-### [Biblioteca-Pyramid-scheme](https://github.com/NicolasKaenan/Biblioteca-Pyramid-scheme)
-> Sistema de biblioteca em **Node.js + MySQL** — relacionamento N:N entre entidades  
-> API HTTP completa: GET, POST, PUT, DELETE com subconjuntos e filtros.
+## 🚀 Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,angular,react,vite" />
+</p>
+
+## 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+## 💻 Operating Systems
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,kali" />
+</p>
+
+## 🔧 Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman" />
+</p>
+
+## 🔐 Cybersecurity
+
+<p>
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Metasploit-2E6BE6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hydra-444444?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Gobuster-2E8B57?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ffuf-8A2BE2?style=for-the-badge"/>
+</p>
+
+## 📚 Methodologies
+
+<p>
+
+<img src="https://img.shields.io/badge/PTES-181717?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CVSS-00599C?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## 🏆 Conquistas
+# 🧪 Training Platforms
 
-- 🥇 **1º lugar** — Startup Weekend Ibirama 2024 (plataforma B2B, 48h)
-- 🥈 **2º lugar** — Hackathon MICTI 2024 (plataforma Q&A colaborativa, 48h)
+<p>
+
+<img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+
+</p>
 
 ---
 
-## 📜 Certificações
+# 📂 Security Portfolio
 
-| Certificação | Emissor | Ano |
-|---|---|---|
+## 🧪 Solved Labs
+
+🔗 **Repository**
+
+https://github.com/NicolasKaenan/Solved-labs
+
+Repository containing:
+
+- Hack The Box
+- TryHackMe
+- PortSwigger Academy
+- OWASP Labs
+- Offensive Security Labs
+
+Each write-up includes:
+
+- Enumeration
+- Exploitation
+- Proof of Concept (PoC)
+- Evidence
+- Technical Notes
+- Mitigation
+- Professional Pentest Report (when applicable)
+
+---
+
+## 🔧 Security Tools
+
+🚧 Currently under development
+
+Planned tools:
+
+- CLIVSS
+- CLIProxy
+- Other security utilities
+
+---
+
+# 🚀 Featured Projects
+
+## 🌌 TCC-Orbitae-Software
+
+Physics simulation software developed with Java/JavaFX and Node.js.
+
+Features:
+
+- Authentication
+- REST API
+- PDF Generation
+- Relational Database
+
+🔗 https://github.com/NicolasKaenan/TCC-Orbitae-Software
+
+---
+
+## 📚 Bookstore Manager API
+
+RESTful API built with Spring Boot.
+
+Features:
+
+- CRUD
+- MVC
+- REST Architecture
+- MySQL
+
+🔗 https://github.com/NicolasKaenan/Bookstore_Manager_API
+
+---
+
+## 📖 Biblioteca Pyramid Scheme
+
+Library Management System.
+
+Features:
+
+- Node.js
+- MySQL
+- HTTP API
+- CRUD
+- Filters
+
+🔗 https://github.com/NicolasKaenan/Biblioteca-Pyramid-scheme
+
+---
+
+# 🏆 Achievements
+
+🥇 **1st Place**
+
+Startup Weekend Ibirama (2024)
+
+🥈 **2nd Place**
+
+Hackathon MICTI (2024)
+
+---
+
+# 📜 Certifications
+
+| Certification | Organization | Year |
+|----------------|-------------|------|
 | eJPT | INE Security | 2026 |
-| Fortinet NSE 1 | Fortinet | 2026 |
-| Hackers do Bem — Básico & Nivelamento | SENAI | 2026 |
-| Técnico em Informática | IFC Campus Ibirama | 2024 |
+| Fortinet Certified Fundamentals | Fortinet | 2026 |
+| Hackers do Bem | SENAI | 2026 |
+| Computer Technician | IFC Campus Ibirama | 2024 |
 
 ---
 
-## 📡 Contato
+# 🎯 Current Goals
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaenandev)
-[![Portfolio](https://img.shields.io/badge/kaenan.dev-111827?style=flat&logo=vercel&logoColor=white)](https://kaenan.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kaenansilveira@outlook.com)
-[![HTB](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019d720b-0bb1-7316-846a-4ade34de2eb8)
+- 🔧 Build Security Tools using Go
+- 🧪 Publish custom vulnerable labs
+- 📝 Publish technical write-ups
+- 📄 Produce professional pentest reports
+- 🤝 Contribute to Open Source Security
+- 🎯 Continue specializing in Offensive Security
 
 ---
 
-<sub>📍 Ibirama, SC — Brasil &nbsp;|&nbsp; Disponível para oportunidades em segurança ofensiva e desenvolvimento</sub>
+# 📫 Contact
+
+<p>
+<a href="https://linkedin.com/in/kaenandev">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://kaenan.dev">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:kaenansilveira@outlook.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://profile.hackthebox.com/profile/019d720b-0bb1-7316-846a-4ade34de2eb8">
+<img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+</a>
+</p>
+
+---
+
+> **"Learning by building, breaking and securing systems."**
+>
+> **"Aprender construindo, quebrando e protegendo sistemas."** 
+
