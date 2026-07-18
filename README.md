@@ -1,102 +1,68 @@
 # Hi, I'm Nicolas Kaenan Silveira 👋
-# Olá, eu sou Nicolas Kaenan Silveira 👋
 
 ```text
 ┌──────────────────────────────────────────────────────────────────────────────┐
-│ Jr. Penetration Tester | Offensive Security | eJPT | Red Team • AppSec       |
-│ PTES, OWASP Top 10, MITRE ATT&CK                                             │
+│ Jr. Penetration Tester | Offensive Security | eJPT | Red Team • AppSec       │
+│ PTES • OWASP Top 10 • MITRE ATT&CK                                           │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
-🇧🇷
+> **Building secure software by understanding how it can be broken.**
 
-Sou estudante de **Tecnologia em Segurança Cibernética**, Técnico em Informática e Desenvolvedor Full Stack com foco em **Application Security (AppSec)**.
+I'm a **Cybersecurity Technology student**, **eJPT Certified**, Computer Technician, and Full-Stack Developer focused on **Application Security (AppSec)**.
 
-Tenho interesse em todo o ciclo de desenvolvimento seguro, desde o projeto da aplicação até a identificação e correção de vulnerabilidades através de Pentests, Code Review e Secure Coding.
+I enjoy designing secure software, performing penetration testing, reviewing code, identifying vulnerabilities, and applying secure development practices throughout the software development lifecycle.
 
-Meu objetivo é construir aplicações seguras, desenvolver ferramentas para segurança ofensiva e compartilhar conhecimento através de projetos, laboratórios e iniciativas open source.
-
----
-
-🇺🇸
-
-I'm a **Cybersecurity Technology student**, Computer Technician and Full-Stack Developer focused on **Application Security (AppSec)**.
-
-I enjoy designing secure software, performing penetration testing, reviewing code, identifying vulnerabilities and applying secure development practices throughout the software lifecycle.
-
-My goal is to build secure applications, develop security tools and contribute to the security community through projects, labs and open-source initiatives.
+My goal is to become an **Application Security Engineer**, developing secure software, offensive security tools, and open-source security projects.
 
 ---
 
-# 🎯 About | Sobre
-
-🇧🇷
+# 🎯 About
 
 - 🔐 eJPT Certified — INE Security
-- 🎓 Cybersecurity Technologist — UniSenai
+- 🎓 Cybersecurity Technology — UniSenai
 - 💻 Computer Technician — IFC Campus Ibirama
-- 🛡️ Foco em Application Security (AppSec)
-- 🌐 Pentest Web e Red Team
-- ⚙️ Desenvolvimento Full Stack
-- 🔍 Segurança aplicada ao ciclo de desenvolvimento
-- 📚 Estudando continuamente novas técnicas ofensivas e defensivas
-
-🇺🇸
-
-- 🔐 eJPT Certified — INE Security
-- 🎓 Cybersecurity Technologist — UniSenai
-- 💻 Computer Technician — IFC Campus Ibirama
-- 🛡️ Focused on Application Security
+- 🛡️ Application Security (AppSec)
 - 🌐 Web Pentesting & Red Team
 - ⚙️ Full-Stack Development
-- 🔍 Security throughout the Software Development Lifecycle
-- 📚 Constantly learning offensive and defensive techniques
+- 🔍 Secure Software Development Lifecycle (SSDLC)
+- 📚 Continuously learning offensive and defensive security
 
 ---
 
-# 🛠️ Technologies & Tools
+# 🛠️ Tech Stack
 
-## 💻 Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=go,cs,java,python,typescript,javascript,bash,html,css" />
 </p>
 
----
-
-## 🚀 Frameworks
+### Frameworks
 
 <p>
 <img src="https://skillicons.dev/icons?i=dotnet,spring,nodejs,react,angular,vite" />
 </p>
 
----
-
-## 🗄️ Databases
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
----
-
-## ☁️ DevOps
+### DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,github" />
 </p>
 
----
-
-## 💻 Operating Systems
+### Operating Systems
 
 <p>
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows" />
 </p>
 
----
-
-## 🔧 Development Tools
+### Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,idea,postman" />
@@ -108,17 +74,17 @@ My goal is to build secure applications, develop security tools and contribute t
 
 - Secure Software Development
 - Authentication & Authorization
-- JWT
+- JWT Authentication
 - PBKDF2 Password Hashing
-- OWASP Top 10
 - Secure REST APIs
 - Secure Coding
 - Code Review
+- OWASP Top 10
 - Threat Modeling (Learning)
+- Entity Framework Core
 - Clean Architecture
 - SOLID
 - Docker
-- Entity Framework Core
 
 ---
 
@@ -180,9 +146,9 @@ My goal is to build secure applications, develop security tools and contribute t
 
 ## 🛡️ Home Expense Manager
 
-REST API and Web Application developed with **ASP.NET Core** and **React** following Clean Architecture principles.
+Secure expense management platform built with **ASP.NET Core** and **React**, following Clean Architecture principles.
 
-### Highlights
+**Highlights**
 
 - JWT Authentication
 - PBKDF2 Password Hashing
@@ -197,11 +163,9 @@ REST API and Web Application developed with **ASP.NET Core** and **React** follo
 
 ---
 
-## 🌌 TCC-Orbitae-Software
+## 🌌 Orbitae Software
 
-Physics simulation platform built with Java/JavaFX and Node.js.
-
-Features:
+Physics simulation platform built with **Java/JavaFX** and **Node.js**.
 
 - Authentication
 - REST API
@@ -212,36 +176,31 @@ Features:
 
 ## 📚 Bookstore Manager API
 
-RESTful API developed with Spring Boot.
+RESTful API built with **Spring Boot**.
 
-Features:
-
-- CRUD
-- MVC
-- REST
+- CRUD Operations
+- MVC Architecture
+- REST API
 - MySQL
 
 ---
 
-## 📖 Biblioteca Pyramid Scheme
+## 📖 Pyramid Scheme Library
 
-Library Management API.
+Library Management API built with **Node.js**.
 
-Features:
-
-- Node.js
 - HTTP API
 - CRUD
-- Filters
+- Filtering
 - MySQL
 
 ---
 
 # 🔬 Security Portfolio
 
-## Solved Labs
+## Security Labs
 
-Repository containing write-ups from:
+A growing collection of security write-ups covering:
 
 - Hack The Box
 - TryHackMe
@@ -249,7 +208,7 @@ Repository containing write-ups from:
 - OWASP Labs
 - Offensive Security Labs
 
-Each write-up includes:
+Each report includes:
 
 - Enumeration
 - Exploitation
@@ -262,19 +221,19 @@ Each write-up includes:
 
 ## Security Tools
 
-Currently developing:
+Current projects:
 
 - CLIVSS
 - CLIProxy
-- Future Go security tools
+- Offensive Security tools in Go
 
 ---
 
 # 🏆 Achievements
 
-🥇 Startup Weekend Ibirama — 1st Place
+🥇 Startup Weekend Ibirama — **1st Place**
 
-🥈 MICTI Hackathon — 2nd Place
+🥈 MICTI Hackathon — **2nd Place**
 
 ---
 
@@ -291,14 +250,13 @@ Currently developing:
 
 # 🎯 Current Goals
 
-- 🛡️ Become an Application Security Engineer
-- 🔧 Build secure software using .NET and Go
-- 🚀 Develop security tools
-- 🧪 Publish vulnerable labs
-- 📝 Write technical write-ups
-- 📄 Produce professional pentest reports
-- 🤝 Contribute to Open Source
-- 🎯 Continue specializing in Offensive Security
+- Become an Application Security Engineer
+- Develop secure software with .NET and Go
+- Build offensive security tools
+- Publish vulnerable applications for learning
+- Write professional security reports
+- Contribute to Open Source
+- Continue specializing in Offensive Security
 
 ---
 
@@ -326,6 +284,4 @@ Currently developing:
 
 ---
 
-> **"Building secure software by understanding how it can be broken."**
-
-> **"Construindo software seguro entendendo como ele pode ser explorado."**
+> *"Building secure software by understanding how it can be broken."*
