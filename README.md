@@ -3,24 +3,28 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────────────────────┐
-│ Offensive Security • Pentesting • Red Team • Application Security           │
-│ eJPT Certified • Cybersecurity Student • Full-Stack Developer               │
+│ Jr. Penetration Tester | Offensive Security | eJPT | Red Team • AppSec       |
+│ PTES, OWASP Top 10, MITRE ATT&CK                                             │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
-🇧🇷 **Português**
+🇧🇷
 
-Sou estudante de **Tecnologia em Segurança Cibernética**, Técnico em Informática e apaixonado por Segurança Ofensiva.
+Sou estudante de **Tecnologia em Segurança Cibernética**, Técnico em Informática e Desenvolvedor Full Stack com foco em **Application Security (AppSec)**.
 
-Meu principal objetivo é desenvolver soluções para segurança, identificar vulnerabilidades, realizar testes de intrusão e compartilhar conhecimento através de projetos, laboratórios e ferramentas open source.
+Tenho interesse em todo o ciclo de desenvolvimento seguro, desde o projeto da aplicação até a identificação e correção de vulnerabilidades através de Pentests, Code Review e Secure Coding.
+
+Meu objetivo é construir aplicações seguras, desenvolver ferramentas para segurança ofensiva e compartilhar conhecimento através de projetos, laboratórios e iniciativas open source.
 
 ---
 
-🇺🇸 **English**
+🇺🇸
 
-I'm a **Cybersecurity Technology student**, Computer Technician and Offensive Security enthusiast.
+I'm a **Cybersecurity Technology student**, Computer Technician and Full-Stack Developer focused on **Application Security (AppSec)**.
 
-My primary goal is to build security solutions, identify vulnerabilities, perform penetration testing and share knowledge through projects, labs and open-source tools.
+I enjoy designing secure software, performing penetration testing, reviewing code, identifying vulnerabilities and applying secure development practices throughout the software lifecycle.
+
+My goal is to build secure applications, develop security tools and contribute to the security community through projects, labs and open-source initiatives.
 
 ---
 
@@ -31,56 +35,97 @@ My primary goal is to build security solutions, identify vulnerabilities, perfor
 - 🔐 eJPT Certified — INE Security
 - 🎓 Cybersecurity Technologist — UniSenai
 - 💻 Computer Technician — IFC Campus Ibirama
-- 🌐 Foco em Pentest Web, Red Team e Application Security
-- ⚙️ Background em Desenvolvimento Full Stack
-- 📚 Sempre estudando novas técnicas de exploração e defesa
+- 🛡️ Foco em Application Security (AppSec)
+- 🌐 Pentest Web e Red Team
+- ⚙️ Desenvolvimento Full Stack
+- 🔍 Segurança aplicada ao ciclo de desenvolvimento
+- 📚 Estudando continuamente novas técnicas ofensivas e defensivas
 
 🇺🇸
 
 - 🔐 eJPT Certified — INE Security
 - 🎓 Cybersecurity Technologist — UniSenai
 - 💻 Computer Technician — IFC Campus Ibirama
-- 🌐 Focused on Web Pentesting, Red Team and Application Security
-- ⚙️ Full-Stack Development Background
-- 📚 Constantly learning new offensive security techniques
+- 🛡️ Focused on Application Security
+- 🌐 Web Pentesting & Red Team
+- ⚙️ Full-Stack Development
+- 🔍 Security throughout the Software Development Lifecycle
+- 📚 Constantly learning offensive and defensive techniques
 
 ---
 
-# 🛠️ Technologies & Tools | Tecnologias e Ferramentas
+# 🛠️ Technologies & Tools
 
 ## 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=go,java,python,javascript,bash,html,css" />
+<img src="https://skillicons.dev/icons?i=go,cs,java,python,typescript,javascript,bash,html,css" />
 </p>
+
+---
 
 ## 🚀 Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,angular,react,vite" />
+<img src="https://skillicons.dev/icons?i=dotnet,spring,nodejs,react,angular,vite" />
 </p>
+
+---
 
 ## 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
+
+---
+
+## ☁️ DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github" />
+</p>
+
+---
 
 ## 💻 Operating Systems
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,kali" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows" />
 </p>
+
+---
 
 ## 🔧 Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman" />
 </p>
 
-## 🔐 Cybersecurity
+---
+
+# 🔐 Application Security
+
+- Secure Software Development
+- Authentication & Authorization
+- JWT
+- PBKDF2 Password Hashing
+- OWASP Top 10
+- Secure REST APIs
+- Secure Coding
+- Code Review
+- Threat Modeling (Learning)
+- Clean Architecture
+- SOLID
+- Docker
+- Entity Framework Core
+
+---
+
+# 🛡️ Offensive Security
 
 <p>
+
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
@@ -94,9 +139,12 @@ My primary goal is to build security solutions, identify vulnerabilities, perfor
 <img src="https://img.shields.io/badge/Gobuster-2E8B57?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/ffuf-8A2BE2?style=for-the-badge"/>
+
 </p>
 
-## 📚 Methodologies
+---
+
+# 📚 Security Methodologies
 
 <p>
 
@@ -128,15 +176,72 @@ My primary goal is to build security solutions, identify vulnerabilities, perfor
 
 ---
 
-# 📂 Security Portfolio
+# 🚀 Featured Projects
 
-## 🧪 Solved Labs
+## 🛡️ Home Expense Manager
 
-🔗 **Repository**
+REST API and Web Application developed with **ASP.NET Core** and **React** following Clean Architecture principles.
 
-https://github.com/NicolasKaenan/Solved-labs
+### Highlights
 
-Repository containing:
+- JWT Authentication
+- PBKDF2 Password Hashing
+- Clean Architecture
+- REST API
+- Entity Framework Core
+- PostgreSQL
+- React + TypeScript
+- Protected Routes
+- Dashboard
+- Docker
+
+---
+
+## 🌌 TCC-Orbitae-Software
+
+Physics simulation platform built with Java/JavaFX and Node.js.
+
+Features:
+
+- Authentication
+- REST API
+- PDF Generation
+- Relational Database
+
+---
+
+## 📚 Bookstore Manager API
+
+RESTful API developed with Spring Boot.
+
+Features:
+
+- CRUD
+- MVC
+- REST
+- MySQL
+
+---
+
+## 📖 Biblioteca Pyramid Scheme
+
+Library Management API.
+
+Features:
+
+- Node.js
+- HTTP API
+- CRUD
+- Filters
+- MySQL
+
+---
+
+# 🔬 Security Portfolio
+
+## Solved Labs
+
+Repository containing write-ups from:
 
 - Hack The Box
 - TryHackMe
@@ -148,104 +253,51 @@ Each write-up includes:
 
 - Enumeration
 - Exploitation
-- Proof of Concept (PoC)
+- Proof of Concept
 - Evidence
-- Technical Notes
 - Mitigation
-- Professional Pentest Report (when applicable)
+- Professional Report
 
 ---
 
-## 🔧 Security Tools
+## Security Tools
 
-🚧 Currently under development
-
-Planned tools:
+Currently developing:
 
 - CLIVSS
 - CLIProxy
-- Other security utilities
-
----
-
-# 🚀 Featured Projects
-
-## 🌌 TCC-Orbitae-Software
-
-Physics simulation software developed with Java/JavaFX and Node.js.
-
-Features:
-
-- Authentication
-- REST API
-- PDF Generation
-- Relational Database
-
-🔗 https://github.com/NicolasKaenan/TCC-Orbitae-Software
-
----
-
-## 📚 Bookstore Manager API
-
-RESTful API built with Spring Boot.
-
-Features:
-
-- CRUD
-- MVC
-- REST Architecture
-- MySQL
-
-🔗 https://github.com/NicolasKaenan/Bookstore_Manager_API
-
----
-
-## 📖 Biblioteca Pyramid Scheme
-
-Library Management System.
-
-Features:
-
-- Node.js
-- MySQL
-- HTTP API
-- CRUD
-- Filters
-
-🔗 https://github.com/NicolasKaenan/Biblioteca-Pyramid-scheme
+- Future Go security tools
 
 ---
 
 # 🏆 Achievements
 
-🥇 **1st Place**
+🥇 Startup Weekend Ibirama — 1st Place
 
-Startup Weekend Ibirama (2024)
-
-🥈 **2nd Place**
-
-Hackathon MICTI (2024)
+🥈 MICTI Hackathon — 2nd Place
 
 ---
 
 # 📜 Certifications
 
-| Certification | Organization | Year |
-|----------------|-------------|------|
-| eJPT | INE Security | 2026 |
-| Fortinet Certified Fundamentals | Fortinet | 2026 |
-| Hackers do Bem | SENAI | 2026 |
-| Computer Technician | IFC Campus Ibirama | 2024 |
+| Certification | Organization |
+|---------------|--------------|
+| eJPT | INE Security |
+| Fortinet Certified Fundamentals | Fortinet |
+| Hackers do Bem | SENAI |
+| Computer Technician | IFC |
 
 ---
 
 # 🎯 Current Goals
 
-- 🔧 Build Security Tools using Go
-- 🧪 Publish custom vulnerable labs
-- 📝 Publish technical write-ups
+- 🛡️ Become an Application Security Engineer
+- 🔧 Build secure software using .NET and Go
+- 🚀 Develop security tools
+- 🧪 Publish vulnerable labs
+- 📝 Write technical write-ups
 - 📄 Produce professional pentest reports
-- 🤝 Contribute to Open Source Security
+- 🤝 Contribute to Open Source
 - 🎯 Continue specializing in Offensive Security
 
 ---
@@ -253,6 +305,7 @@ Hackathon MICTI (2024)
 # 📫 Contact
 
 <p>
+
 <a href="https://linkedin.com/in/kaenandev">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -268,11 +321,11 @@ Hackathon MICTI (2024)
 <a href="https://profile.hackthebox.com/profile/019d720b-0bb1-7316-846a-4ade34de2eb8">
 <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 </a>
+
 </p>
 
 ---
 
-> **"Learning by building, breaking and securing systems."**
->
-> **"Aprender construindo, quebrando e protegendo sistemas."** 
+> **"Building secure software by understanding how it can be broken."**
 
+> **"Construindo software seguro entendendo como ele pode ser explorado."**
