@@ -1,10 +1,10 @@
 # Hi, I'm Nicolas Kaenan Silveira 👋
 
 ```text
-┌──────────────────────────────────────────────────────────────────────────────┐
+┌──────────────────────────────────────────────────────────────────┐
 │ Jr. Penetration Tester | Offensive Security | eJPT | Red Team • AppSec       │
 │ PTES • OWASP Top 10 • MITRE ATT&CK                                           │
-└──────────────────────────────────────────────────────────────────────────────┘
+└──────────────────────────────────────────────────────────────────┘
 ```
 
 > **Building secure software by understanding how it can be broken.**
