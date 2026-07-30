@@ -17,7 +17,7 @@ My goal is to become an **Application Security Engineer**, developing secure sof
 
 ---
 
-# Plataformas
+# Plataforms
 
 ## Hack The Box
 
