@@ -17,9 +17,14 @@ My goal is to become an **Application Security Engineer**, developing secure sof
 
 ---
 
-# Hack The Box
+# Plataformas
+
+## Hack The Box
 
 [![Hack The Box](https://www.hackthebox.com/badge/image/1992818)](https://app.hackthebox.com/users/1992818)
+
+## Leetcode
+[![LeetCode Stats](https://leetcard.jacoblin.cool/nicolaskaenan)](https://leetcode.com/u/nicolaskaenan/)
 
 ---
 # 🎯 About
